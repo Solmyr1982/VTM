@@ -61,5 +61,15 @@ table 50356 "VTM Pool Header"
     fieldgroups
     {
     }
+	
+    trigger OnDelete()
+    var
+        VTMPoolLine: Record 50357;
+    begin
+        IF NOT Confirm('Do you want to delete Pool Header?') then
+            Error('');
+        VTMPoolLine.SetRange("Header Number", Number);
+        VTMPoolLine.DeleteAll();
+    end;	
 }
 
