@@ -1,0 +1,23 @@
+<div class="win blue-theme" id="mainMenu">
+    <div class="caption">
+        <div class="title">Vote The Movie</div>
+    </div>
+    <div id="buttonsPart">
+        <select id="selectorControl" onmouseleave="mouseLeaveSelector()" onchange="selectBatchClick()">
+            <option selected disabled hidden>Batch</option>
+        </select>
+        <a class="standardButton" id="voteButton" onclick="vote()">Vote</a>
+        <a class="standardButton" id="selectedButton" onclick="showSelectedClick()">Selected [0]</a>
+        <a class="standardButton" id="historyButton" onclick="showHistoryClick()">History</a>
+        <a class="standardButton" onclick="showAllClick()">All</a>
+        <a class="standardButton" id="listButton" onclick="showListClick()">List</a>
+        <a class="standardButton" id="startPoolButton" onclick="startPoolClick()">Start Pool</a>
+        <a class="standardButton" id="addMovieButton" onclick="addMovieClick()">Add Movie</a>
+        <a class="smallButton" id="loginLogoff" onclick="showloginForm()">Login</a>
+    </div>
+    <div id="userNamePart"></div>
+    <div id="textInfo"></div>
+    <div class="footer">
+        <div class="navi" id="nextPrevBar"></div>
+    </div>
+</div>

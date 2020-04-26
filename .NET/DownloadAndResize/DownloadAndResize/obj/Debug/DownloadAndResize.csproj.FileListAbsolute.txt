@@ -1,0 +1,5 @@
+C:\Users\odo\source\repos\DownloadAndResize\DownloadAndResize\bin\Debug\DownloadAndResize.dll
+C:\Users\odo\source\repos\DownloadAndResize\DownloadAndResize\bin\Debug\DownloadAndResize.pdb
+C:\Users\odo\source\repos\DownloadAndResize\DownloadAndResize\obj\Debug\DownloadAndResize.csproj.CoreCompileInputs.cache
+C:\Users\odo\source\repos\DownloadAndResize\DownloadAndResize\obj\Debug\DownloadAndResize.dll
+C:\Users\odo\source\repos\DownloadAndResize\DownloadAndResize\obj\Debug\DownloadAndResize.pdb

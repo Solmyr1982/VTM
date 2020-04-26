@@ -1,0 +1,6 @@
+C:\Users\odo\source\repos\DownloadAndResize\DownloadAndResize\bin\Release\DownloadAndResize.dll
+C:\Users\odo\source\repos\DownloadAndResize\DownloadAndResize\bin\Release\DownloadAndResize.pdb
+C:\Users\odo\source\repos\DownloadAndResize\DownloadAndResize\obj\Release\DownloadAndResize.csproj.CoreCompileInputs.cache
+C:\Users\odo\source\repos\DownloadAndResize\DownloadAndResize\obj\Release\DownloadAndResize.dll
+C:\Users\odo\source\repos\DownloadAndResize\DownloadAndResize\obj\Release\DownloadAndResize.pdb
+C:\Users\odo\source\repos\DownloadAndResize\DownloadAndResize\obj\Release\DownloadAndResize.csprojAssemblyReference.cache

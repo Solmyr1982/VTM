@@ -1,0 +1,83 @@
+#gridControl {
+    display: grid;
+    grid-template-rows: repeat(var(--rowNum));
+    grid-template-columns: repeat(var(--colNum), auto);
+    row-gap: 10px;
+    column-gap: 10px;
+    margin-top: 140px;
+    margin-left: 10px;
+    overflow-x: auto;
+    padding-bottom: 10px;
+}
+
+.gridItem {
+    grid-column-start: auto;
+    grid-row-start: auto;
+    height: 300px;
+    width: 200px;
+}
+
+.movieNameLabel {
+    font-size: 14px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.movieNameDiv {
+    padding-right: 5px;
+}
+
+img.posterImage {
+    max-width: 190px;
+    max-height: 230px;
+    border: 1px solid #180099;
+    overflow: hidden;
+}
+
+.relationImage:hover {
+    cursor: pointer;
+}
+
+#partNumber {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.symantec .cardWindow {
+    background-color: #afa8af;
+    box-shadow: 10px 10px 0 0 rgba(0, 0, 0, 0.8);
+}
+
+.transpImg {
+    mix-blend-mode: multiply;
+}
+
+.cardWindow {
+    border: medium solid transparent;
+}
+
+#context-menu {
+    display: none;
+    position: absolute;
+    border: 1px solid black;
+    width: 50px;
+    height: 20px;
+    background: #180099;
+}
+
+#context-menu li {
+    padding: 1px 2px;
+    margin-bottom: 1px;
+    color: white;
+    font-family: "PerfectDOSVGA437", monospace;
+    background-color: #180099;
+    list-style: none;
+}
+
+#context-menu li:hover {
+    cursor: pointer;
+    background-color: #008080;
+}
+
+.td-list {
+    vertical-align: top;
+}

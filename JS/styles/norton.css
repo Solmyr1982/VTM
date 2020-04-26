@@ -1,0 +1,161 @@
+@import url(http://dev.amazingsoftworks.com/vgafont/styles.css);
+.norton {
+    background-color: #333333;
+}
+
+.norton .win {
+    position: fixed;
+    overflow: hidden;
+}
+
+.norton .win:before, .norton .win:after {
+    content: " ";
+    position: absolute;
+    border: 1px solid #2efffe;
+    z-index: -10;
+}
+
+.norton .win:before {
+    top: 20px;
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
+}
+
+.norton .win:after {
+    top: 22px;
+    bottom: 22px;
+    left: 22px;
+    right: 22px;
+}
+
+.norton .win .caption {
+    position: absolute;
+    top: 14px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    z-index: 2;
+}
+
+.norton .win .caption .title {
+    display: inline-block;
+    padding-left: 0.8em;
+    padding-right: 0.6em;
+    user-select: none;
+}
+
+.norton .win .footer {
+    position: absolute;
+    top: 24px;
+    left: 30;
+    right: 0;
+    z-index: 2;
+}
+
+.norton .win .footer .navi {
+    display: inline-block;
+    padding-left: 0.8em;
+    padding-right: 0.6em;
+}
+
+.norton .win strong {
+    font-weight: normal;
+}
+
+.norton .win.blue-theme .footer .navi {
+    background-color: #180099;
+}
+
+.content-center {
+    text-align: center;
+}
+
+.norton .win.blue-theme {
+    color: #2efffe;
+    background-color: #180099;
+}
+
+.norton .win.blue-theme:before, .norton .win.blue-theme:after {
+    border-color: #2efffe;
+}
+
+.norton .win.blue-theme .caption .title {
+    background-color: #180099;
+}
+
+.norton .win.gray-theme {
+    color: #000000;
+    background-color: #afa8af;
+}
+
+.norton .win.gray-theme:before, .norton .win.gray-theme:after {
+    border-color: #000000;
+}
+
+.norton .win.gray-theme .caption .title {
+    background-color: #afa8af;
+}
+
+.norton .win.gray-theme strong {
+    background-color: #1ca8af;
+    padding-left: 0.8em;
+    padding-right: 0.8em;
+}
+
+.norton .win.red-theme {
+    color: #FFFFFF;
+    background-color: #800000;
+}
+
+.norton .win.red-theme:before, .norton .win.red-theme:after {
+    border-color: #FFFFFF;
+}
+
+.norton .win.red-theme .caption .title {
+    background-color: #800000;
+}
+
+.norton .win.red-theme strong {
+    background-color: #C0C0C0;
+    padding-left: 0.8em;
+    padding-right: 0.8em;
+}
+
+.nortonButton {
+    background-color: #C0C0C0;
+    font-family: "PerfectDOSVGA437", monospace;
+    font-weight: normal;
+    -webkit-font-smoothing: none;
+    display: inline-block;
+    cursor: pointer;
+    padding: 2px 8px;
+    font-size: 16px;
+    user-select: none;
+    color: black;
+    outline: none;
+    box-shadow: 5px 5px 0 0 #000000;
+}
+
+.norton .win.cyan-theme {
+    color: #ffffff;
+    background-color: #1ca8af;
+}
+
+.norton .win.cyan-theme:before, .norton .win.cyan-theme:after {
+    border-color: #ffffff;
+}
+
+.norton .win.cyan-theme .caption .title {
+    background-color: #1ca8af;
+}
+
+.norton .win.cyan-theme a {
+    color: #A8A8A8;
+}
+
+.norton .win.cyan-theme strong {
+    background-color: #000000;
+    padding-left: 0.8em;
+    padding-right: 0.8em;
+}

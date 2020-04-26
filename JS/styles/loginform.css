@@ -1,0 +1,65 @@
+#loginForm {
+    display: none;
+    top: 40%;
+    left: 40%;
+    padding: 30px 30px;
+    box-shadow: 20px 20px 0 0 #000000;
+    position: fixed;
+    width: 300px;
+    height: 100px;
+    z-index: 101;
+}
+
+#loginButtonDiv {
+    right: 30%;
+    top: 67%;
+    position: absolute;
+}
+
+.nortonButtonWhite {
+    background-color: white;
+    font-family: "PerfectDOSVGA437", monospace;
+    font-weight: normal;
+    -webkit-font-smoothing: none;
+    display: inline-block;
+    cursor: pointer;
+    padding: 2px 8px;
+    font-size: 16px;
+    user-select: none;
+    box-shadow: 5px 5px 0 0 #000000;
+}
+
+#loginInput {
+    background: black;
+    border-style: none;
+    font-family: "PerfectDOSVGA437", monospace;
+    font-weight: normal;
+    -webkit-font-smoothing: none;
+    font-size: 14px;
+    color: white;
+    height: 20px;
+    outline: none;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    width: 200px;
+}
+
+#passwordInptControl {
+    background: black;
+    border-style: none;
+    font-family: caption;
+    font-weight: normal;
+    -webkit-font-smoothing: none;
+    font-size: 14px;
+    color: white;
+    height: 20px;
+    outline: none;
+    margin-bottom: 10px;
+    width: 200px;
+}
+
+#loginPassDiv {
+    position: absolute;
+    right: 20%;
+    top: 25%;
+}

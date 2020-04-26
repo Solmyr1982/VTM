@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 290058453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Movie Entity</source>
+          <target>Movie Entity</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Movie Entity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 290058453 - Control 2686962215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>id</source>
+          <target>id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Movie Entity - Control id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 290058453 - Control 756052141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MovieNumber</source>
+          <target>MovieNumber</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Movie Entity - Control MovieNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 290058453 - Control 1441812849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Poster</source>
+          <target>Poster</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Movie Entity - Control Poster - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 290058453 - Control 1568503880 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WIKI</source>
+          <target>WIKI</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Movie Entity - Control WIKI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 290058453 - Control 2925361519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trailer</source>
+          <target>Trailer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Movie Entity - Control Trailer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 290058453 - Control 3789031979 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NameENU</source>
+          <target>NameENU</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Movie Entity - Control NameENU - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 290058453 - Control 1625069164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NameRU</source>
+          <target>NameRU</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Movie Entity - Control NameRU - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 290058453 - Control 1298626863 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RelationNumber</source>
+          <target>RelationNumber</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Movie Entity - Control RelationNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 290058453 - Control 487747129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Part</source>
+          <target>Part</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Movie Entity - Control Part - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 290058453 - Control 2346995269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Series</source>
+          <target>Series</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Movie Entity - Control Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 982430641 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch Entity</source>
+          <target>Batch Entity</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch Entity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 982430641 - Control 2686962215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>id</source>
+          <target>id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch Entity - Control id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 982430641 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch Entity - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 837956761 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Movie Batch Entity</source>
+          <target>Movie Batch Entity</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Movie Batch Entity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 837956761 - Control 2686962215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>id</source>
+          <target>id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Movie Batch Entity - Control id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 837956761 - Control 756052141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MovieNumber</source>
+          <target>MovieNumber</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Movie Batch Entity - Control MovieNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 837956761 - Control 1042671269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BatchName</source>
+          <target>BatchName</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Movie Batch Entity - Control BatchName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1326228070 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Entity</source>
+          <target>User Entity</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page User Entity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1326228070 - Control 2686962215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>id</source>
+          <target>id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page User Entity - Control id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1326228070 - Control 2138558048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UserID</source>
+          <target>UserID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page User Entity - Control UserID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1326228070 - Control 1077820653 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Administrator</source>
+          <target>Administrator</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page User Entity - Control Administrator - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1326228070 - Control 2200548784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>adminURL</source>
+          <target>adminURL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page User Entity - Control adminURL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2305682202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Batch Entity</source>
+          <target>User Batch Entity</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page User Batch Entity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2305682202 - Control 2686962215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>id</source>
+          <target>id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page User Batch Entity - Control id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2305682202 - Control 2138558048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UserID</source>
+          <target>UserID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page User Batch Entity - Control UserID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2305682202 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page User Batch Entity - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4253405591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Relation Entity</source>
+          <target>Relation Entity</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Relation Entity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4253405591 - Control 2686962215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>id</source>
+          <target>id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Relation Entity - Control id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4253405591 - Control 2272340397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number</source>
+          <target>Number</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Relation Entity - Control Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4253405591 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Relation Entity - Control Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 90595476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pool Header Entity</source>
+          <target>Pool Header Entity</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Header Entity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 90595476 - Control 2686962215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>id</source>
+          <target>id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Header Entity - Control id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 90595476 - Control 2272340397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number</source>
+          <target>Number</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Header Entity - Control Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 90595476 - Control 1042671269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BatchName</source>
+          <target>BatchName</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Header Entity - Control BatchName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 90595476 - Control 1517519972 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>InitiatedByUserID</source>
+          <target>InitiatedByUserID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Header Entity - Control InitiatedByUserID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 90595476 - Control 3422631048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>StartedAt</source>
+          <target>StartedAt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Header Entity - Control StartedAt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 90595476 - Control 2551951185 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FinishedAt</source>
+          <target>FinishedAt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Header Entity - Control FinishedAt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 90595476 - Control 3233569910 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WinnerMovieNumber</source>
+          <target>WinnerMovieNumber</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Header Entity - Control WinnerMovieNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 90595476 - Control 153788221 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CurrentRound</source>
+          <target>CurrentRound</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Header Entity - Control CurrentRound - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 592401587 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pool Line Entity</source>
+          <target>Pool Line Entity</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Line Entity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 592401587 - Control 2686962215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>id</source>
+          <target>id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Line Entity - Control id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 592401587 - Control 3909091368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HeaderNumber</source>
+          <target>HeaderNumber</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Line Entity - Control HeaderNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 592401587 - Control 1165969121 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LineNo</source>
+          <target>LineNo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Line Entity - Control LineNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 592401587 - Control 2359492749 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RoundNo</source>
+          <target>RoundNo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Line Entity - Control RoundNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 592401587 - Control 697060706 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LineType</source>
+          <target>LineType</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Line Entity - Control LineType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 592401587 - Control 756052141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MovieNumber</source>
+          <target>MovieNumber</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Line Entity - Control MovieNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 592401587 - Control 2138558048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UserID</source>
+          <target>UserID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Line Entity - Control UserID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 592401587 - Control 3685686276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PromotionalAction</source>
+          <target>PromotionalAction</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Line Entity - Control PromotionalAction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 592401587 - Control 455109323 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PromotionalState</source>
+          <target>PromotionalState</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Line Entity - Control PromotionalState - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 592401587 - Control 1779603261 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PromotionalLineNumber</source>
+          <target>PromotionalLineNumber</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Line Entity - Control PromotionalLineNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3758691559 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch History Entity</source>
+          <target>Batch History Entity</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch History Entity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3758691559 - Control 1042671269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BatchName</source>
+          <target>BatchName</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch History Entity - Control BatchName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3758691559 - Control 756052141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MovieNumber</source>
+          <target>MovieNumber</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch History Entity - Control MovieNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3758691559 - Control 2551951185 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FinishedAt</source>
+          <target>FinishedAt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch History Entity - Control FinishedAt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3758691559 - Control 1441812849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Poster</source>
+          <target>Poster</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch History Entity - Control Poster - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3758691559 - Control 1568503880 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WIKI</source>
+          <target>WIKI</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch History Entity - Control WIKI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3758691559 - Control 2925361519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trailer</source>
+          <target>Trailer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch History Entity - Control Trailer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3758691559 - Control 3789031979 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NameENU</source>
+          <target>NameENU</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch History Entity - Control NameENU - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3758691559 - Control 1625069164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NameRU</source>
+          <target>NameRU</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch History Entity - Control NameRU - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3758691559 - Control 1298626863 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RelationNumber</source>
+          <target>RelationNumber</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch History Entity - Control RelationNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3758691559 - Control 487747129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Part</source>
+          <target>Part</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch History Entity - Control Part - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3758691559 - Control 2346995269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Series</source>
+          <target>Series</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch History Entity - Control Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846771197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch Pool Entity</source>
+          <target>Batch Pool Entity</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch Pool Entity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846771197 - Control 2686962215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>id</source>
+          <target>id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch Pool Entity - Control id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846771197 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch Pool Entity - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846771197 - Control 3406147945 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PoolNumber</source>
+          <target>PoolNumber</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch Pool Entity - Control PoolNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846771197 - Control 1517519972 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>InitiatedByUserID</source>
+          <target>InitiatedByUserID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch Pool Entity - Control InitiatedByUserID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846771197 - Control 3422631048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>StartedAt</source>
+          <target>StartedAt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch Pool Entity - Control StartedAt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846771197 - Control 2551951185 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FinishedAt</source>
+          <target>FinishedAt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch Pool Entity - Control FinishedAt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846771197 - Control 3233569910 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WinnerMovieNumber</source>
+          <target>WinnerMovieNumber</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch Pool Entity - Control WinnerMovieNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846771197 - Control 153788221 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CurrentRound</source>
+          <target>CurrentRound</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch Pool Entity - Control CurrentRound - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846771197 - Control 2138558048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UserID</source>
+          <target>UserID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch Pool Entity - Control UserID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846771197 - Control 632334177 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Admin</source>
+          <target>Admin</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch Pool Entity - Control Admin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846771197 - Control 2456182803 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Movie1</source>
+          <target>Movie1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch Pool Entity - Control Movie1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846771197 - Control 74305358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Movie2</source>
+          <target>Movie2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch Pool Entity - Control Movie2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846771197 - Control 3731576037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Movie3</source>
+          <target>Movie3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch Pool Entity - Control Movie3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846771197 - Control 543092952 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Movie4</source>
+          <target>Movie4</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch Pool Entity - Control Movie4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 846771197 - Control 4200363631 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Movie5</source>
+          <target>Movie5</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Batch Pool Entity - Control Movie5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3802775001 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pool Movie Entity</source>
+          <target>Pool Movie Entity</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Movie Entity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3802775001 - Control 2686962215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>id</source>
+          <target>id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Movie Entity - Control id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3802775001 - Control 756052141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MovieNumber</source>
+          <target>MovieNumber</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Movie Entity - Control MovieNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3802775001 - Control 1441812849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Poster</source>
+          <target>Poster</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Movie Entity - Control Poster - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3802775001 - Control 1568503880 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WIKI</source>
+          <target>WIKI</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Movie Entity - Control WIKI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3802775001 - Control 2925361519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trailer</source>
+          <target>Trailer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Movie Entity - Control Trailer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3802775001 - Control 3789031979 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NameENU</source>
+          <target>NameENU</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Movie Entity - Control NameENU - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3802775001 - Control 1625069164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NameRU</source>
+          <target>NameRU</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Movie Entity - Control NameRU - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3802775001 - Control 1298626863 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RelationNumber</source>
+          <target>RelationNumber</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Movie Entity - Control RelationNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3802775001 - Control 487747129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Part</source>
+          <target>Part</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Movie Entity - Control Part - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3802775001 - Control 2346995269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Series</source>
+          <target>Series</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Movie Entity - Control Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3802775001 - Control 2005218412 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PoolHeaderNumber</source>
+          <target>PoolHeaderNumber</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Movie Entity - Control PoolHeaderNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3802775001 - Control 2138558048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UserID</source>
+          <target>UserID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Movie Entity - Control UserID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3802775001 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filter for %1 is empty. This API page can only be used for specific Pool.</source>
+          <target>Filter for %1 is empty. This API page can only be used for specific Pool.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pool Movie Entity - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 620048072 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request Processor Entity</source>
+          <target>Request Processor Entity</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Request Processor Entity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 620048072 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You need to select %1 card(s).</source>
+          <target>You need to select %1 card(s).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Request Processor Entity - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 620048072 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You can not select the same movie as you selected in the first round.</source>
+          <target>You can not select the same movie as you selected in the first round.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Request Processor Entity - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Page 620048072 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must select not less and not more than %1 movies.</source>
+          <target>You must select not less and not more than %1 movies.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Request Processor Entity - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Page 620048072 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is already active pool: %1.</source>
+          <target>There is already active pool: %1.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Request Processor Entity - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Page 3693475876 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fix VTM Data</source>
+          <target>Fix VTM Data</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fix VTM Data - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 181935164 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VTM Role Center</source>
+          <target>VTM Role Center</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VTM Role Center - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1078562215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VTM Movie List</source>
+          <target>VTM Movie List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VTM Movie List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3603555069 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VTM Movie Card</source>
+          <target>VTM Movie Card</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VTM Movie Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3603555069 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File not created.</source>
+          <target>File not created.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VTM Movie Card - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 702543736 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VTM Batch Subpage</source>
+          <target>VTM Batch Subpage</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VTM Batch Subpage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 702543736 - Control 90423963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Selected</source>
+          <target>Selected</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VTM Batch Subpage - Control Selected - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 702543736 - Control 2475946763 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Watched At Date</source>
+          <target>Watched At Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VTM Batch Subpage - Control WatchedAtDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 702543736 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to delete existing Pool %1?</source>
+          <target>Do you want to delete existing Pool %1?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VTM Batch Subpage - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Page 4282516788 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VTM Setup</source>
+          <target>VTM Setup</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VTM Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 154763380 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VTM Role Center Values</source>
+          <target>VTM Role Center Values</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VTM Role Center Values - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4084973291 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VTM Batch List</source>
+          <target>VTM Batch List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VTM Batch List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1344971229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VTM Relation List</source>
+          <target>VTM Relation List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VTM Relation List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2262650688 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VTM User List</source>
+          <target>VTM User List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VTM User List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2336131708 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VTM User Batch List</source>
+          <target>VTM User Batch List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VTM User Batch List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2632742026 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VTM Pool Header List</source>
+          <target>VTM Pool Header List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page VTM Pool Header List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3483221489 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VTM Movie</source>
+          <target>VTM Movie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Movie - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3483221489 - Field 2272340397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number</source>
+          <target>Number</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Movie - Field Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3483221489 - Field 1441812849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Poster</source>
+          <target>Poster</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Movie - Field Poster - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3483221489 - Field 1568503880 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WIKI</source>
+          <target>WIKI</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Movie - Field WIKI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3483221489 - Field 2925361519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trailer</source>
+          <target>Trailer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Movie - Field Trailer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3483221489 - Field 4073966843 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name ENU</source>
+          <target>Name ENU</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Movie - Field Name ENU - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3483221489 - Field 1601096476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name RU</source>
+          <target>Name RU</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Movie - Field Name RU - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3483221489 - Field 1075032999 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Relation Number</source>
+          <target>Relation Number</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Movie - Field Relation Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3483221489 - Field 487747129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Part</source>
+          <target>Part</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Movie - Field Part - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3483221489 - Field 2346995269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Series</source>
+          <target>Series</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Movie - Field Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3483221489 - Field 3484977024 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Poster Blob</source>
+          <target>Poster Blob</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Movie - Field Poster Blob - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3483221489 - Field 3161589492 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pool Header Number</source>
+          <target>Pool Header Number</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Movie - Field Pool Header Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3483221489 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <target>User ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Movie - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3483221489 - Field 90423963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Selected</source>
+          <target>Selected</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Movie - Field Selected - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3483221489 - Field 3018884516 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Random Number</source>
+          <target>Random Number</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Movie - Field Random Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3483221489 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <target>ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Movie - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3483221489 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you really want to delete the movie?</source>
+          <target>Do you really want to delete the movie?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Movie - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Table 1961629973 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VTM Batch</source>
+          <target>VTM Batch</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Batch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1961629973 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Batch - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1961629973 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <target>User ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Batch - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1961629973 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <target>ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Batch - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3020420045 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VTM Movie Batch</source>
+          <target>VTM Movie Batch</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Movie Batch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3020420045 - Field 3390165621 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Movie Number</source>
+          <target>Movie Number</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Movie Batch - Field Movie Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3020420045 - Field 3182586253 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch Name</source>
+          <target>Batch Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Movie Batch - Field Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3020420045 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <target>ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Movie Batch - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4224899874 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VTM User</source>
+          <target>VTM User</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4224899874 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <target>User ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM User - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4224899874 - Field 1077820653 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Administrator</source>
+          <target>Administrator</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM User - Field Administrator - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4224899874 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <target>ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM User - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2571842878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VTM User Batch</source>
+          <target>VTM User Batch</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM User Batch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2571842878 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <target>User ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM User Batch - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2571842878 - Field 3182586253 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch Name</source>
+          <target>Batch Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM User Batch - Field Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2571842878 - Field 865398282 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Read Only</source>
+          <target>Read Only</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM User Batch - Field Read Only - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2571842878 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <target>ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM User Batch - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4289328435 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VTM Relation</source>
+          <target>VTM Relation</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Relation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4289328435 - Field 2272340397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number</source>
+          <target>Number</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Relation - Field Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4289328435 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Relation - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4289328435 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <target>ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Relation - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2621455512 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VTM Pool Header</source>
+          <target>VTM Pool Header</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Pool Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2621455512 - Field 2272340397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number</source>
+          <target>Number</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Pool Header - Field Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2621455512 - Field 3182586253 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch Name</source>
+          <target>Batch Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Pool Header - Field Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2621455512 - Field 1944761068 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Initiated By User ID</source>
+          <target>Initiated By User ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Pool Header - Field Initiated By User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2621455512 - Field 2014922888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Started At</source>
+          <target>Started At</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Pool Header - Field Started At - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2621455512 - Field 1400640745 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finished At</source>
+          <target>Finished At</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Pool Header - Field Finished At - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2621455512 - Field 1818420342 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Winner Movie Number</source>
+          <target>Winner Movie Number</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Pool Header - Field Winner Movie Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2621455512 - Field 1224356669 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Current Round</source>
+          <target>Current Round</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Pool Header - Field Current Round - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2621455512 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <target>ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Pool Header - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4035759071 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VTM Pool Line</source>
+          <target>VTM Pool Line</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Pool Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4035759071 - Field 3448960728 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Header Number</source>
+          <target>Header Number</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Pool Line - Field Header Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4035759071 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>Line No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Pool Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4035759071 - Field 3111504327 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Round No.</source>
+          <target>Round No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Pool Line - Field Round No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4035759071 - Field 158172202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Type</source>
+          <target>Line Type</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Pool Line - Field Line Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4035759071 - Field 3390165621 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Movie Number</source>
+          <target>Movie Number</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Pool Line - Field Movie Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4035759071 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <target>User ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Pool Line - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4035759071 - Field 4109591404 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Promotional Action</source>
+          <target>Promotional Action</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Pool Line - Field Promotional Action - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4035759071 - Field 2779032259 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Promotional State</source>
+          <target>Promotional State</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Pool Line - Field Promotional State - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4035759071 - Field 2579611597 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Promotional Line Number</source>
+          <target>Promotional Line Number</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Pool Line - Field Promotional Line Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4035759071 - Field 2570673311 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created At</source>
+          <target>Created At</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Pool Line - Field Created At - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4035759071 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <target>ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Pool Line - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 26124292 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VTM Request Processor</source>
+          <target>VTM Request Processor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Request Processor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 26124292 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <target>ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Request Processor - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 26124292 - Field 1821279055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text</source>
+          <target>Text</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Request Processor - Field Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4282516788 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VTM Setup</source>
+          <target>VTM Setup</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4282516788 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target>Primary Key</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4282516788 - Field 4088771699 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posters Path</source>
+          <target>Posters Path</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Setup - Field Posters Path - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4282516788 - Field 3768001324 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Site URL</source>
+          <target>Site URL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Setup - Field Site URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4282516788 - Field 2215620583 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resize Poster X</source>
+          <target>Resize Poster X</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Setup - Field Resize Poster X - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4282516788 - Field 2853317200 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resize Poster Y</source>
+          <target>Resize Poster Y</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Setup - Field Resize Poster Y - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4282516788 - Field 2185313536 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Admin URL</source>
+          <target>Admin URL</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Setup - Field Admin URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2137238317 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VTM Role Center Cue</source>
+          <target>VTM Role Center Cue</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Role Center Cue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2137238317 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target>Primary Key</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Role Center Cue - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2137238317 - Field 1573698213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Movies</source>
+          <target>Movies</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Role Center Cue - Field Movies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2137238317 - Field 2243748878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batches</source>
+          <target>Batches</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Role Center Cue - Field Batches - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2137238317 - Field 3048766263 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Relations</source>
+          <target>Relations</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Role Center Cue - Field Relations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2137238317 - Field 2183420390 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Users</source>
+          <target>Users</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Role Center Cue - Field Users - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2137238317 - Field 2610794381 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User Batches</source>
+          <target>User Batches</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Role Center Cue - Field User Batches - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2137238317 - Field 1796428545 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pools</source>
+          <target>Pools</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table VTM Role Center Cue - Field Pools - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

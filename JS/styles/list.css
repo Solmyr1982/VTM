@@ -1,0 +1,17 @@
+.listContainer {
+    background-color: #180099;
+}
+
+.listItem {
+    color: #2efffe;
+    cursor: pointer;
+    font-family: "PerfectDOSVGA437", monospace;
+    font-weight: normal;
+    -webkit-font-smoothing: none;
+}
+
+.listItem:hover {
+    background: #008080;
+    color: black;
+    cursor: pointer;
+}
