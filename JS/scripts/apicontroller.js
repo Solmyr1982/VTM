@@ -1,7 +1,9 @@
 function sendAPIRequest(requestName, action, body, cardNumber) {
   try {
     var xhttp = new XMLHttpRequest();
-    xhttp.withCredentials = true;
+    if (action != 'getRatingIMDB') {
+      xhttp.withCredentials = true;
+    }
     var currentUser = currentState.usrLogin;
     var currentPassword = currentState.usrPassword;
 
@@ -11,8 +13,13 @@ function sendAPIRequest(requestName, action, body, cardNumber) {
     }
 
     if (!body) {
-      xhttp.open("GET", appConfig.APIURL + requestName, true);
-      xhttp.setRequestHeader("Authorization", "Basic " + btoa(currentUser + ":" + currentPassword));
+      if (action == 'getRatingIMDB') {
+        xhttp.open("GET", 'http://www.omdbapi.com/?apikey=da791ea3&t=' + requestName, true);
+      }
+      else {
+        xhttp.open("GET", appConfig.APIURL + requestName, true);
+        xhttp.setRequestHeader("Authorization", "Basic " + btoa(currentUser + ":" + currentPassword));
+      }
       xhttp.send();
     }
     else {
@@ -30,7 +37,7 @@ function sendAPIRequest(requestName, action, body, cardNumber) {
               {
                 showAllCards(xhttp.responseText);
                 break;
-              }             
+              }
             case 'showList':
               {
                 showList(xhttp.responseText);
@@ -64,10 +71,17 @@ function sendAPIRequest(requestName, action, body, cardNumber) {
                 preparePool('newBatch');
                 break;
               }
+            case 'getRatingIMDB':
+              {
+                var reply = JSON.parse(xhttp.responseText);
+                $('#' + cardNumber + 'trailerLink').html(reply.imdbRating);
+                $('#' + cardNumber + 'trailerLink').attr('href', 'https://www.imdb.com/title/' + reply.imdbID + '/');
+                break;
+              }
             default:
-            {
-              showErrorMessage('Error', 'Uknown case (sendAPIRequest):' + action)
-            }
+              {
+                showErrorMessage('Error', 'Uknown case (sendAPIRequest):' + action)
+              }
           }
         }
         else {
@@ -77,7 +91,9 @@ function sendAPIRequest(requestName, action, body, cardNumber) {
             currentState.usrPassword = '';
           }
           else {
-            showErrorMessage('Error', xhttp.status + ': ' + xhttp.statusText + '; Request: ' + requestName);
+            if (action != 'getRatingIMDB') {
+              showErrorMessage('Error', xhttp.status + ': ' + xhttp.statusText + '; Request: ' + requestName);
+            }
           }
         }
         hideProgressBar();

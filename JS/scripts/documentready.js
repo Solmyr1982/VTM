@@ -11,7 +11,7 @@ $(document).ready(function () {
                 $('#selectorControl').css("-webkit-appearance", "none");
                 $('#selectorControl').css("appearance", "none");
             }
-            $("p").css("background-color", "yellow");
+            // $("p").css("background-color", "yellow"); ???
 
             $('#voteButton').hide();
             $("#userNamePart").load("elements/username.html", function () {

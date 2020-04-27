@@ -127,6 +127,11 @@ function showSingleCard(cardArray) {
     $('#' + newCardID + ' #wikiLink').attr('href', cardArray.WIKI);
     $('#' + newCardID + ' #trailerLink').attr('href', cardArray.Trailer);
 
+    if (currentState.state == 'history') {
+      $('#' + newCardID + ' #trailerLink').attr('id', cardArray.MovieNumber + 'trailerLink');
+      sendAPIRequest(cardArray.NameENU, 'getRatingIMDB', null, cardArray.MovieNumber);
+    }
+
     if (currentState.selectedCards.indexOf('' + cardArray.MovieNumber + '') != -1) {
       $('#Card' + cardArray.MovieNumber).find('.cardWindow').css('border', "medium solid #75D975");
     }
