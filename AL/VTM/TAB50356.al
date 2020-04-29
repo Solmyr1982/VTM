@@ -6,45 +6,45 @@ table 50356 "VTM Pool Header"
 
     fields
     {
-        field(1;Number;Integer)
+        field(1; Number; Integer)
         {
             Caption = 'Number';
             DataClassification = ToBeClassified;
         }
-        field(2;"Batch Name";Text[50])
+        field(2; "Batch Name"; Text[50])
         {
             Caption = 'Batch Name';
             DataClassification = ToBeClassified;
             TableRelation = "VTM Batch".Name;
         }
-        field(3;"Initiated By User ID";Text[50])
+        field(3; "Initiated By User ID"; Text[50])
         {
             Caption = 'Initiated By User ID';
             DataClassification = ToBeClassified;
             TableRelation = "VTM User"."User ID";
         }
-        field(4;"Started At";DateTime)
+        field(4; "Started At"; DateTime)
         {
             Caption = 'Started At';
             DataClassification = ToBeClassified;
         }
-        field(5;"Finished At";DateTime)
+        field(5; "Finished At"; DateTime)
         {
             Caption = 'Finished At';
             DataClassification = ToBeClassified;
         }
-        field(6;"Winner Movie Number";Integer)
+        field(6; "Winner Movie Number"; Integer)
         {
             Caption = 'Winner Movie Number';
             DataClassification = ToBeClassified;
             TableRelation = "VTM Movie".Number;
         }
-        field(7;"Current Round";Integer)
+        field(7; "Current Round"; Integer)
         {
             Caption = 'Current Round';
             DataClassification = ToBeClassified;
         }
-        field(100;ID;Guid)
+        field(100; ID; Guid)
         {
             Caption = 'ID';
             DataClassification = ToBeClassified;
@@ -53,7 +53,7 @@ table 50356 "VTM Pool Header"
 
     keys
     {
-        key(Key1;Number)
+        key(Key1; Number)
         {
         }
     }
@@ -61,7 +61,7 @@ table 50356 "VTM Pool Header"
     fieldgroups
     {
     }
-	
+
     trigger OnDelete()
     var
         VTMPoolLine: Record 50357;
@@ -70,6 +70,6 @@ table 50356 "VTM Pool Header"
             Error('');
         VTMPoolLine.SetRange("Header Number", Number);
         VTMPoolLine.DeleteAll();
-    end;	
+    end;
 }
 

@@ -35,6 +35,23 @@ page 50388 "VTM Setup"
     {
         area(processing)
         {
+            action(FixIMDB)
+            {
+                trigger OnAction()
+                var
+                    VTMMovie: Record "VTM Movie";
+                    title: text;
+                begin
+                    //PAGE.RUN(50361);
+                    VTMMovie.SetFilter(IMDB, '<>%1', 'tterror	');
+                    IF VTMMovie.FindSet() then
+                        repeat
+                            title := VTMMovie.IMDB;
+                            VTMMovie.IMDB := 'https://www.imdb.com/title/' + title + '/';
+                            VTMMovie.Modify();
+                        until VTMMovie.Next() = 0;
+                end;
+            }
             action(TestDLL)
             {
                 trigger OnAction()

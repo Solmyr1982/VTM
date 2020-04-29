@@ -14,7 +14,9 @@ function sendAPIRequest(requestName, action, body, cardNumber) {
 
     if (!body) {
       if (action == 'getRatingIMDB') {
-        xhttp.open("GET", 'http://www.omdbapi.com/?apikey=da791ea3&t=' + requestName, true);
+        //xhttp.open("GET", 'http://www.omdbapi.com/?apikey=da791ea3&t=' + requestName, true);
+        xhttp.open("GET", 'http://www.omdbapi.com/?apikey=da791ea3&i=' + requestName, true);
+        
       }
       else {
         xhttp.open("GET", appConfig.APIURL + requestName, true);

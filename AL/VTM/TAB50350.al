@@ -59,6 +59,11 @@ table 50350 "VTM Movie"
             Description = 'for displaybg picture on card';
             SubType = Bitmap;
         }
+        field(11; "IMDB"; Text[100])
+        {
+            Caption = 'IMDB';
+            DataClassification = ToBeClassified;
+        }
         field(50; "Pool Header Number"; Integer)
         {
             Caption = 'Pool Header Number';

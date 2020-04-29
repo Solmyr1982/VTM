@@ -129,7 +129,11 @@ function showSingleCard(cardArray) {
 
     if (currentState.state == 'history') {
       $('#' + newCardID + ' #trailerLink').attr('id', cardArray.MovieNumber + 'trailerLink');
-      sendAPIRequest(cardArray.NameENU, 'getRatingIMDB', null, cardArray.MovieNumber);
+      if ((cardArray.IMDB !='') & (cardArray.IMDB != 'https://www.imdb.com/title/tterror/')){
+        var title = cardArray.IMDB.substring(27);
+        title = title.substring(0, title.length - 1);
+        sendAPIRequest(title, 'getRatingIMDB', null, cardArray.MovieNumber);
+      }
     }
 
     if (currentState.selectedCards.indexOf('' + cardArray.MovieNumber + '') != -1) {

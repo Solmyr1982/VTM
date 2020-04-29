@@ -40,6 +40,9 @@ page 50385 "VTM Movie List"
                 field(Number; Number)
                 {
                 }
+                field(IMDB; IMDB)
+                {
+                }
             }
         }
     }

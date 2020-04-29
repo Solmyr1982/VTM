@@ -57,6 +57,10 @@ page 50350 "Movie Entity"
                 {
                     Caption = 'Series';
                 }
+                field(IMDB; IMDB)
+                {
+                    Caption = 'IMDB';
+                }
             }
         }
     }

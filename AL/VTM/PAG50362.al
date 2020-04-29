@@ -100,6 +100,21 @@ page 50362 "Request Processor Entity"
         VTMPoolHeader.INSERT;
     end;
 
+
+    [ServiceEnabled]
+    [Scope('Personalization')]
+    procedure setIMDB(movieNumber: Integer; imdbID: Text) outParam: Text
+    var
+        VTMMovie: Record "VTM Movie";
+
+    begin
+        VTMMovie.get(movieNumber);
+        VTMMovie.IMDB := imdbID;
+        VTMMovie.Modify();
+
+        outParam := 'success';
+    end;
+
     local procedure ValidateMovies(PoolNumber: Integer; MoviesArray: array[6] of Integer; CurrentRound: Integer)
     var
         VTMPoolLine: Record "VTM Pool Line";

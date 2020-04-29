@@ -66,6 +66,10 @@ page 50360 "Pool Movie Entity"
                 {
                     Caption = 'UserID';
                 }
+                field(IMDB; IMDB)
+                {
+                    Caption = 'IMDB';
+                }
             }
         }
     }

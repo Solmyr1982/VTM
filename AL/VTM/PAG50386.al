@@ -23,6 +23,9 @@ page 50386 "VTM Movie Card"
                 field(WIKI; WIKI)
                 {
                 }
+                field(IMDB; IMDB)
+                {
+                }
                 field(Trailer; Trailer)
                 {
                 }

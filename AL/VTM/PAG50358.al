@@ -61,6 +61,10 @@ page 50358 "Batch History Entity"
                 {
                     Caption = 'Series';
                 }
+                field(IMDB; VTMMovie.IMDB)
+                {
+                    Caption = 'IMDB';
+                }
             }
         }
     }
