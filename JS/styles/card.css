@@ -1,0 +1,140 @@
+.gridItem {
+    grid-column-start: auto;
+    grid-row-start: auto;
+    height: 300px;
+    width: 200px;
+}
+
+.td_poster {
+    height: 240;
+}
+
+.td_movieName {
+    height: 30;
+}
+
+.td_cell {
+    width: 30;
+    height: 20;7
+}
+
+.td_yt {
+    width: 40;
+    height: 20;
+}
+
+img.posterImage {
+    max-width: 190px;
+    max-height: 230px;
+    border: 1px solid #180099;
+    overflow: hidden;
+}
+
+.main_table {
+    width: 200px;
+}
+
+.movieNameLabel {
+    font-size: 14px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.symantec .cardWindow {
+    background-color: #afa8af;
+    box-shadow: 10px 10px 0 0 rgba(0, 0, 0, 0.8);
+}
+
+.movieNameDiv {
+    padding-right: 5px;
+    height: 30px;
+    overflow: hidden;
+}
+
+/*@media (pointer:none), (pointer:coarse), (max-width : 10480px) {*/
+@media (pointer:none), (pointer:coarse) {
+    .gridItem {
+        grid-column-start: auto;
+        grid-row-start: auto;
+        width: 400px;
+        height: 700px;
+    }
+    .td_poster {
+        height: 520;
+    }
+    .td_movieName {
+        height: 80;
+    }
+    .td_cell {
+        width: 80;
+        height: 50;
+    }
+    .td_yt {
+        width: 110;
+        height: 50;
+    }
+    img.posterImage {
+        max-width: 370px;
+        max-height: 490px;
+        min-width: 370px;
+        min-height: 490px;        
+        border: 1px solid #180099;
+        overflow: hidden;
+    }
+    .main_table {
+        width: 400px;
+    }
+    .movieNameLabel {
+        font-size: 25px;
+        color: black;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    .movieNameDiv {
+        padding-right: 5px;
+        height: 60px;
+        overflow: hidden;
+    }
+}
+
+.relationImage:hover {
+    cursor: pointer;
+}
+
+#partNumber {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.transpImg {
+    mix-blend-mode: multiply;
+}
+
+.cardWindow {
+    border: medium solid transparent;
+}
+
+#context-menu {
+    display: none;
+    position: absolute;
+    border: 1px solid black;
+    width: 50px;
+    height: 20px;
+    background: #180099;
+}
+
+#context-menu li {
+    padding: 1px 2px;
+    margin-bottom: 1px;
+    color: white;
+    font-family: "PerfectDOSVGA437", monospace;
+    background-color: #180099;
+    list-style: none;
+}
+
+#context-menu li:hover {
+    cursor: pointer;
+    background-color: #008080;
+}
+
+.td-list {
+    vertical-align: top;
+}

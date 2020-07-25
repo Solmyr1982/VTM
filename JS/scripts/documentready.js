@@ -19,7 +19,13 @@ $(document).ready(function () {
                 $.get("elements/cardpart.html", function (result) {
                     currentState.blankCard = result;
                     showHideAdminButtons();
-                    showAllClick();
+
+                    if (!currentState.usrLogin) {
+                        currentState.currentBatch = 'sol_personal';
+                        validateSelectedBatch();
+                    }
+                    else
+                        showAllClick();
                 });
             });
         });

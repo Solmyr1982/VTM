@@ -46,6 +46,11 @@ function showAllCards(cardsJson) {
     currentState.currentCardSet = cards;
     showNextPrevBar();
     highlightcurrentPage(0, 1);
+
+    if (currentState.state == 'history') {
+      lastPage();
+    }
+
   }
   catch (err) {
     showErrorMessage('showAllCards', err.message);
@@ -129,7 +134,7 @@ function showSingleCard(cardArray) {
 
     if (currentState.state == 'history') {
       $('#' + newCardID + ' #trailerLink').attr('id', cardArray.MovieNumber + 'trailerLink');
-      if ((cardArray.IMDB !='') & (cardArray.IMDB != 'https://www.imdb.com/title/tterror/')){
+      if ((cardArray.IMDB != '') & (cardArray.IMDB != 'https://www.imdb.com/title/tterror/')) {
         var title = cardArray.IMDB.substring(27);
         title = title.substring(0, title.length - 1);
         sendAPIRequest(title, 'getRatingIMDB', null, cardArray.MovieNumber);
