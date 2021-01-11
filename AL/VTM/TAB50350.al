@@ -64,6 +64,17 @@ table 50350 "VTM Movie"
             Caption = 'IMDB';
             DataClassification = ToBeClassified;
         }
+        field(12; "Added On"; DateTime)
+        {
+            Caption = 'Added On';
+            DataClassification = ToBeClassified;
+            Editable = false;
+        }
+        field(13; "Source"; Text[50])
+        {
+            Caption = 'Source';
+            DataClassification = ToBeClassified;
+        }
         field(50; "Pool Header Number"; Integer)
         {
             Caption = 'Pool Header Number';
@@ -109,6 +120,11 @@ table 50350 "VTM Movie"
     fieldgroups
     {
     }
+
+    trigger OnInsert()
+    begin
+        "Added On" := CreateDateTime(Today, Time);
+    end;
 
     trigger OnDelete()
     var

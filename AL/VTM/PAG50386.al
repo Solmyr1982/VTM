@@ -29,6 +29,14 @@ page 50386 "VTM Movie Card"
                 field(Trailer; Trailer)
                 {
                 }
+                field(Source; Source)
+                {
+
+                }
+                field("Added On"; "Added On")
+                {
+
+                }
                 field(Poster; Poster)
                 {
 
