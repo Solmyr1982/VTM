@@ -2,13 +2,14 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "VTM Launch",
             "type": "al",
             "request": "launch",
-            "name": "VTM Server",
+            "environmentType": "OnPrem",
             "server": "http://10.92.102.42",
-            "serverInstance": "VTM",
+            "serverInstance": "VTM180",
             "authentication": "UserPassword",
-            "startupObjectId": 22,
+            "startupObjectId": 1,
             "startupObjectType": "Page",
             "breakOnError": true,
             "launchBrowser": true,
