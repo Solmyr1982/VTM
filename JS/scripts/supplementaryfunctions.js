@@ -6,7 +6,7 @@ function showCardDetailsClick(cardID) {
         if (cardID.includes("List")) {
             cardID = cardID.substring(4);
         }
-        openNewWindow(currentState.adminURL + '?company=VTM&page=50386&filter=\'Number\' IS \'' + cardID + '\'');
+        openNewWindow(currentState.adminURL + '?company=SOL&page=50386&filter=\'Number\' IS \'' + cardID + '\'');
     }
     catch (err) {
         showErrorMessage('showCardDetailsClick', err.message);
@@ -14,7 +14,7 @@ function showCardDetailsClick(cardID) {
 }
 
 function addMovieClick() {
-    openNewWindow(currentState.adminURL + '?company=VTM&page=50386&mode=Create');
+    openNewWindow(currentState.adminURL + '?company=SOL&page=50386&mode=Create');
 }
 
 function openNewWindow(URL) {
