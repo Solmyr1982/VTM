@@ -33,7 +33,7 @@ function sendAPIRequest(requestName, action, body, cardNumber) {
 
     xhttp.onreadystatechange = function () {
       if (xhttp.readyState === XMLHttpRequest.DONE) {
-        if (xhttp.status === 200) {
+        if ((xhttp.status === 200) | (xhttp.status === 204)) {
           switch (action) {
             case 'showAllCards': case 'showHistory':
               {
