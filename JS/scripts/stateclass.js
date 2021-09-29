@@ -25,6 +25,9 @@ class State {
     currentPoolMessage = 'Pool No.: %1; Started by: %2; Round: %3';
     alreadyVotedMessage = 'You already voted in this pool. You can see your selection below.';
     state; //none,showAll,list,history,batchNoPool,game
+    currentUnparsedCardSet; // unparsed JSON 
+    filterString; // current filter
+    filterMode; // are we filtering or not
 
     changeState(newState) {
         try {
@@ -191,6 +194,17 @@ class State {
         }
         catch (err) {
             showErrorMessage('prepareDisplay', err.message);
+        }
+    }
+
+    turnOffFilter() {
+        try {
+            this.filterString = '';
+            this.filterMode = false;
+            $('#filterInput').val('');
+        }
+        catch (err) {
+            showErrorMessage('turnOffFilter', err.message);
         }
     }
 }

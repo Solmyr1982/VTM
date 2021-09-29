@@ -5,7 +5,7 @@ function showCardDetailsClick(cardID) {
         }
         if (cardID.includes("List")) {
             cardID = cardID.substring(4);
-        }
+        }		
         openNewWindow(currentState.adminURL + '?company=SOL&page=50386&filter=\'Number\' IS \'' + cardID + '\'');
     }
     catch (err) {

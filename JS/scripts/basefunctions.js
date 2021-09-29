@@ -1,3 +1,18 @@
+function setFilter(value) {
+  currentState.filterString = value;
+
+  if (value.length >= 3) {
+    showAllCards(currentState.currentUnparsedCardSet,true);
+    filterMode = true;
+  }
+  else {
+    if (filterMode) {
+      showAllCards(currentState.currentUnparsedCardSet,true);
+      filterMode = false;
+    }
+  }
+}
+
 function showAllClick() {
   try {
     currentState.changeState('showAll');

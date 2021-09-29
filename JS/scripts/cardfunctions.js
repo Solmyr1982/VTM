@@ -1,4 +1,4 @@
-function showAllCards(cardsJson) {
+function showAllCards(cardsJson, fromFilter) {
   try {
     var displayParameters = { maxColumns: 0, maxRows: 0 };
     currentState.prepareDisplay(displayParameters);
@@ -28,6 +28,13 @@ function showAllCards(cardsJson) {
         }
     }
 
+    if (currentState.filterString) {
+      if (currentState.filterString.length >= 3) {
+        currentState.filterString = currentState.filterString.toLowerCase();
+        cards.value = cards.value.filter(card => { if (card.NameENU.toLowerCase().includes(currentState.filterString) || card.NameRU.toLowerCase().includes(currentState.filterString)) return true; });
+      }
+    }
+
     var maxCards = 0;
     if (cards.value.length > (displayParameters.maxColumns * displayParameters.maxRows)) {
       maxCards = (displayParameters.maxColumns * displayParameters.maxRows);
@@ -37,18 +44,26 @@ function showAllCards(cardsJson) {
     }
     cards.value.unshift('empty');
 
-    for (i = 1; i <= maxCards; i++) {
-      showSingleCard(cards.value[i]);
+    if (!(fromFilter & currentState.selectedMode)) {
+      for (i = 1; i <= maxCards; i++) {
+        showSingleCard(cards.value[i]);
+      }
     }
 
     currentState.totalCardsQty = cards.value.length - 1;
     currentState.maxCardsOnScreen = maxCards;
     currentState.currentCardSet = cards;
+    currentState.currentUnparsedCardSet = cardsJson;
     showNextPrevBar();
     highlightcurrentPage(0, 1);
 
     if (currentState.state == 'history') {
       lastPage();
+    }
+
+    if (fromFilter & currentState.selectedMode) {
+      showProgressBar();
+      setTimeout(showSelectedAsync(true), 0);
     }
 
   }
@@ -57,13 +72,15 @@ function showAllCards(cardsJson) {
   }
 }
 
-function showSelectedAsync() {
+function showSelectedAsync(continueSelectedMode) {
   try {
     currentState.prepareDisplay(null);
-    if (currentState.selectedMode == false) {
+    if (currentState.selectedMode == false || continueSelectedMode) {
       for (var i = 0; i < currentState.selectedCards.length; i++) {
         var filteredCardSet = currentState.currentCardSet.value.filter(item => item.MovieNumber === parseInt(currentState.selectedCards[i], 10));
-        showSingleCard(filteredCardSet[0]);
+        if (filteredCardSet[0]) {
+          showSingleCard(filteredCardSet[0]);
+        }
       }
       currentState.enableselectedMode();
       currentState.hideNextPrevBar();

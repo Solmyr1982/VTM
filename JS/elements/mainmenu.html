@@ -13,6 +13,9 @@
         <a class="standardButton" id="listButton" onclick="showListClick()">List</a>
         <a class="standardButton" id="startPoolButton" onclick="startPoolClick()">Start Pool</a>
         <a class="standardButton" id="addMovieButton" onclick="addMovieClick()">Add Movie</a>
+        <input style="display: none" type="text" name="fakeusernameremembered" />
+        <input style="display: none" type="password" name="fakepasswordremembered" />        
+        <input class="standardInput" type="text" id="filterInput" placeholder="Name Filter" oninput="setFilter(this.value)">
         <a class="smallButton" id="loginLogoff" onclick="showloginForm()">Login</a>
     </div>
     <div id="userNamePart"></div>

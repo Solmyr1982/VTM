@@ -37,11 +37,13 @@ function sendAPIRequest(requestName, action, body, cardNumber) {
           switch (action) {
             case 'showAllCards': case 'showHistory':
               {
+                currentState.turnOffFilter();
                 showAllCards(xhttp.responseText);
                 break;
               }
             case 'showList':
               {
+                currentState.turnOffFilter();
                 showList(xhttp.responseText);
                 break;
               }
@@ -57,6 +59,7 @@ function sendAPIRequest(requestName, action, body, cardNumber) {
               }
             case 'vote':
               {
+                currentState.turnOffFilter();
                 currentState.changeState('game');
                 preparePool(xhttp.responseText);
                 break;
@@ -69,6 +72,7 @@ function sendAPIRequest(requestName, action, body, cardNumber) {
               }
             case 'startNewPool':
               {
+                currentState.turnOffFilter();
                 currentState.changeState('game');
                 preparePool('newBatch');
                 break;
