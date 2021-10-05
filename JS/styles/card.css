@@ -51,8 +51,11 @@ img.posterImage {
     overflow: hidden;
 }
 
-/*@media (pointer:none), (pointer:coarse), (max-width : 10480px) {*/
-@media (pointer:none), (pointer:coarse) {
+
+/*@media (pointer:none), (pointer:coarse) {*/
+@media (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  {
     .gridItem {
         grid-column-start: auto;
         grid-row-start: auto;
