@@ -25,7 +25,7 @@ page 50350 "Movie Entity"
                 {
                     Caption = 'MovieNumber';
                 }
-                field(Poster; Poster)
+                field(Poster; FullPoster)
                 {
                     Caption = 'Poster';
                 }
@@ -68,5 +68,19 @@ page 50350 "Movie Entity"
     actions
     {
     }
+
+    trigger OnOpenPage()
+    begin
+        VTMSetup.Get();
+    end;
+
+    trigger OnAfterGetRecord()
+    begin
+        FullPoster := VTMSetup."Site URL" + '/' + Poster;
+    end;
+
+    var
+        FullPoster: Text;
+        VTMSetup: Record "VTM Setup";
 }
 

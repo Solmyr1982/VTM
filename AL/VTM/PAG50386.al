@@ -126,7 +126,7 @@ page 50386 "VTM Movie Card"
           VTMSetup."Resize Poster Y");
 
         IF FILE.EXISTS(VTMSetup."Posters Path" + FORMAT(Number) + '.jpg') THEN BEGIN
-            Poster := VTMSetup."Site URL" + 'posters/' + FORMAT(Number) + '.jpg';
+            Poster := 'posters/' + FORMAT(Number) + '.jpg';
             MODIFY;
             CurrPage.UPDATE(FALSE);
         END ELSE
