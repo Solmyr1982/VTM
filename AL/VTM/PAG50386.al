@@ -37,9 +37,8 @@ page 50386 "VTM Movie Card"
                 {
 
                 }
-                field(Poster; Poster)
+                field(Poster; PosterURL)
                 {
-
                     trigger OnValidate()
                     begin
                         ValidatePoster;
@@ -69,10 +68,16 @@ page 50386 "VTM Movie Card"
     {
     }
 
+    trigger OnOpenPage()
+    begin
+        VTMSetup.Get();
+    end;
+
     trigger OnAfterGetRecord()
     begin
         CurrPage.VTMBatchSubpage.PAGE.UpdateRecordSet(Number);
         GetImage;
+        PosterURL := VTMSetup."Site URL" + '/' + Poster;
     end;
 
     trigger OnNewRecord(BelowxRec: Boolean)
@@ -107,8 +112,10 @@ page 50386 "VTM Movie Card"
         DownloadAndResize: DotNet DownloadAndResize;
         VTMSetup: Record "VTM Setup";
     begin
-        IF Poster = '' THEN
-            EXIT;
+        if PosterURL = '' then
+            exit;
+
+        Poster := PosterURL;
 
         VTMSetup.GET;
         VTMSetup.TESTFIELD("Posters Path");
@@ -132,5 +139,9 @@ page 50386 "VTM Movie Card"
         END ELSE
             ERROR(Text001);
     end;
+
+    var
+        PosterURL: text;
+        VTMSetup: Record "VTM Setup";
 }
 
