@@ -2,7 +2,7 @@ body {
   min-height: 100vh;
   margin: 0;
   overflow-x: hidden;
-  font-family: "PerfectDOSVGA437", monospace;
+  font-family: 'Perfect DOS VGA 437', sans-serif; 
   font-weight: normal;
   -webkit-font-smoothing: none;
   font-size: 16px;
@@ -66,3 +66,4 @@ body {
   position: absolute;
   outline: none;
 }
+

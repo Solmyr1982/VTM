@@ -8,7 +8,7 @@
     background: #180099;
     border: none;
     outline: 0;
-    font-family: "PerfectDOSVGA437", monospace;
+    font-family: 'Perfect DOS VGA 437', sans-serif;	
     font-weight: normal;
     -webkit-font-smoothing: none;
     font-size: 16px;
@@ -49,7 +49,7 @@
 
 .welcomePart {
     color: #f2f2f2;
-    font-family: "PerfectDOSVGA437", monospace;
+
 }
 
 .standardInput {
@@ -62,8 +62,9 @@
     user-select: none;
     margin-left: 1pc;
     margin-top: 3px;
-    font-family: "PerfectDOSVGA437", monospace;
+    font-family: 'Perfect DOS VGA 437', sans-serif;
     font-weight: normal;
     outline: none!important;
     box-shadow: none!important;
 }
+

@@ -5,7 +5,7 @@
 .listItem {
     color: #2efffe;
     cursor: pointer;
-    font-family: "PerfectDOSVGA437", monospace;
+    font-family: 'Perfect DOS VGA 437', sans-serif;	
     font-weight: normal;
     -webkit-font-smoothing: none;
 }
@@ -15,3 +15,4 @@
     color: black;
     cursor: pointer;
 }
+

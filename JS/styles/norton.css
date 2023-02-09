@@ -124,7 +124,7 @@
 
 .nortonButton {
     background-color: #C0C0C0;
-    font-family: "PerfectDOSVGA437", monospace;
+    font-family: 'Perfect DOS VGA 437', sans-serif;	
     font-weight: normal;
     -webkit-font-smoothing: none;
     display: inline-block;
@@ -159,3 +159,4 @@
     padding-left: 0.8em;
     padding-right: 0.8em;
 }
+
