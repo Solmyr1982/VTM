@@ -5,9 +5,6 @@
 .listItem {
     color: #2efffe;
     cursor: pointer;
-    font-family: 'Perfect DOS VGA 437', sans-serif;	
-    font-weight: normal;
-    -webkit-font-smoothing: none;
 }
 
 .listItem:hover {

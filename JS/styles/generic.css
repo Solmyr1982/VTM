@@ -1,11 +1,20 @@
+@font-face {
+    font-family: 'msdos'; /* Name the font */
+    src: url('http://solmyr.ddns.net/vtm/fonts/msdos.ttf') format('truetype'); /* Path to the font file */
+}
+
+* {
+  font-family: 'msdos', sans-serif; /* Use the font */
+  -webkit-font-smoothing: none;
+  font-weight: normal;  
+  font-size: 16px;  
+}
 body {
   min-height: 100vh;
   margin: 0;
   overflow-x: hidden;
-  font-family: 'Perfect DOS VGA 437', sans-serif; 
-  font-weight: normal;
-  -webkit-font-smoothing: none;
-  font-size: 16px;
+
+
   background: #333333;
 }
 

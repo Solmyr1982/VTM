@@ -18,13 +18,9 @@
 
 .nortonButtonWhite {
     background-color: white;
-    font-family: 'Perfect DOS VGA 437', sans-serif;
-    font-weight: normal;
-    -webkit-font-smoothing: none;
     display: inline-block;
     cursor: pointer;
     padding: 2px 8px;
-    font-size: 16px;
     user-select: none;
     box-shadow: 5px 5px 0 0 #000000;
 }
@@ -32,9 +28,6 @@
 #loginInput {
     background: black;
     border-style: none;
-    font-family: 'Perfect DOS VGA 437', sans-serif;	
-    font-weight: normal;
-    -webkit-font-smoothing: none;
     font-size: 14px;
     color: white;
     height: 20px;
@@ -48,8 +41,6 @@
     background: black;
     border-style: none;
     font-family: caption;
-    font-weight: normal;
-    -webkit-font-smoothing: none;
     font-size: 14px;
     color: white;
     height: 20px;
